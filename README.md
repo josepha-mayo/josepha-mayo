@@ -1,4 +1,4 @@
-# joseph
+# i'm joseph
 
 ## stuff i do
 * AI/ML- SLMs and CO
