@@ -18,5 +18,5 @@ I'm building **von-read**, an exact OCR + evidence-grounded RAG project on AMD R
 - Want to join the challenge? My official LabLab referral link is:
   https://lablab.ai/ai-hackathons/amd-lablab-ai-academy-challenge?invite=inv_u3q67xxspf6hiwjrgb0yyy2r&utm_source=member_invite&utm_medium=referral&utm_campaign=amd-lablab-ai-academy-challenge
 
-Referral disclosure: if a new participant joins through that link and later submits a project, I may receive event points.
+Referral disclosure: if a new participant joins through that link and later submits a project, the current LabLab referral API says they receive 100 points and I receive 200 points.
 
